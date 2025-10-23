@@ -3,7 +3,7 @@ A practical demonstration of bypassing SSL/TLS certificate pinning in the Facebo
 
 # Demo Video
 
-https://github.com/user-attachments/assets/b4b72d31-956a-4c66-9661-4ad5c677f11e
+https://github.com/user-attachments/assets/2a4b5b84-02dd-420a-bc91-5966de171f43
 
 # Architecture **arm64**/**aarch64**
 
