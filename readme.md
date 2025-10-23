@@ -3,7 +3,7 @@ A practical demonstration of bypassing SSL/TLS certificate pinning in the Facebo
 
 # 🎥 Demo Video
 
-[Click here to watch the demo video](https://github.com/MUH4MM4D-SH4KIB/SSL-Pinning-Bypass-Facebook/blob/main/fbsslbypass.mp4)
+![Click here to watch the demo video](https://github.com/MUH4MM4D-SH4KIB/SSL-Pinning-Bypass-Facebook/blob/main/fbsslbypass.mp4)
 
 # Architecture must be **arm64**/**aarch64**
 
