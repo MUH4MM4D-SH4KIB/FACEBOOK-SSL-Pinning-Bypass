@@ -1,11 +1,11 @@
 # SSL Pinning Bypass Facebook 
-A practical demonstration of bypassing SSL/TLS certificate pinning in the Facebook Android app for educational and authorized security research purposes.
+A practical demonstration of bypassing SSL/TLS certificate pinning in the Facebook app for educational and authorized security research purposes.
 
 # Demo Video
 
 https://github.com/user-attachments/assets/b4b72d31-956a-4c66-9661-4ad5c677f11e
 
-Architecture **arm64**/**aarch64**
+# Architecture **arm64**/**aarch64**
 
 # Requirements for Mobile Phone
 - Android device Rooted or Non Rooted
