@@ -6,7 +6,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Fa
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/2a4b5b84-02dd-420a-bc91-5966de171f43)
+▶️ [Watch the demonstration](https://github.com/user-attachments/assets/82c448eb-4a06-40e0-aeb1-4f8f5e341ec9)
 
 ---
 
