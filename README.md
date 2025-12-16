@@ -6,7 +6,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Fa
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/19c84a0c-6eca-4f7a-99ff-9adefbb9e2ab)
+▶️ [Watch the demonstration](https://github.com/user-attachments/assets/fbdb01e7-722b-4ca9-ae09-a2ac45d175a7)
 
 ---
 
@@ -14,7 +14,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Fa
 - **arm64 / aarch64**
 ---
 ## Facebook App Version 
-- **541.0.0.85.79**
+- **542.0.0.46.151**
 ---
 
 ## 📱 Mobile Device Requirements
