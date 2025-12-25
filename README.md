@@ -11,7 +11,8 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Fa
 ---
 
 ## ⚙️ Supported Architectures
-- **arm64 / aarch64**
+- **arm64-v8a**
+- **x86_64**
 ---
 ## Facebook App Version 
 - **543.0.0.55.73**
