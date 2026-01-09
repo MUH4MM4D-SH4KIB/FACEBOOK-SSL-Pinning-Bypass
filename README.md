@@ -2,21 +2,19 @@
 
 Facebook SSL Pinning Bypass and intercept Facebook Traffic.
 
----
 
 ## 🎥 Demo Video
 
 https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e
 
----
 
 ## ⚙️ Supported Architectures
 - **arm64-v8a**
 - **x86_64**
----
+
 ## Facebook App Version 
 - **543.0.0.55.73**
----
+
 
 ## 📱 Mobile Device Requirements
 - Android device (**Rooted** or **Non-Rooted**)
@@ -24,7 +22,6 @@ https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e
   - [Proxypin](https://proxypin.com)
   - [Reqable](https://reqable.com)
 
----
 
 ## 💻 Emulator Setup
 - Windows PC with:
@@ -32,7 +29,6 @@ https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e
   - **Nox** or **LDPlayer** Android emulator
   - **Root access** enabled in the emulator
 
----
 
 ## 🚀 Bypass Procedure
 
