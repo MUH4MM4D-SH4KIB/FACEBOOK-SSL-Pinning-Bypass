@@ -1,11 +1,12 @@
-# 🔐 SSL Pinning Bypass — Facebook App
+# 🔐 SSL Pinning Bypass Facebook
 
-This repository show how to Bypass Facebook SSL Pinning and intercept Facebook HTTPS Traffic.
+This repository shows how to Bypass Facebook SSL Pinning and intercept Facebook Traffic.
+
 ---
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e)
+https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e
 
 ---
 
