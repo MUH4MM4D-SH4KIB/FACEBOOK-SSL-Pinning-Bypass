@@ -5,7 +5,9 @@ Facebook SSL Pinning Bypass and intercept Facebook Traffic.
 
 ## 🎥 Evidence 
 
-▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/bae8f052-1a4f-4651-8632-1321794cc08e)
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/672c6787-83de-45c8-9de1-1645f82c8ee1" />
+
+▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/182b4d64-1c10-4855-8f76-560601e4e7ee)
 
 
 ## ⚙️ Supported Architectures
@@ -13,7 +15,7 @@ Facebook SSL Pinning Bypass and intercept Facebook Traffic.
 - **x86_64**
 
 ## Facebook App Version 
-- **543.0.0.55.73**
+- **544.0.0.42.272**
 
 
 ## 📱 Mobile Device Requirements
