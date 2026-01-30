@@ -5,7 +5,7 @@ Facebook SSL Pinning Bypass and intercept Facebook Traffic.
 
 ## 🎥 Evidence 
 
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/672c6787-83de-45c8-9de1-1645f82c8ee1" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/8e1d74cc-aed8-4e55-8d15-18f3e7c3fff8" />
 
 
 ▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/2d5dfd8c-7655-4d58-963b-295973860801)
