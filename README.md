@@ -1,6 +1,6 @@
 # 🔐 SSL Pinning Bypass Facebook
 
-Facebook SSL Pinning Bypass and intercept Facebook Traffic.
+Facebook SSL Pinning Bypass for Android – intercept Facebook traffic.
 
 
 ## 🎥 Evidence 
