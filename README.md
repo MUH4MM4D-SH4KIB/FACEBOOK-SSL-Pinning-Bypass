@@ -5,10 +5,9 @@ Facebook SSL Pinning Bypass for Android – intercept Facebook traffic.
 
 ## 🎥 Evidence 
 
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/8e1d74cc-aed8-4e55-8d15-18f3e7c3fff8" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/7c1cbb28-2131-4b92-a224-18d8f408dc7e" />
 
-
-▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/2d5dfd8c-7655-4d58-963b-295973860801)
+▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/926a34bb-981e-4219-8efb-ffca12cd1279)
 
 
 ## ⚙️ Supported Architectures
@@ -16,7 +15,7 @@ Facebook SSL Pinning Bypass for Android – intercept Facebook traffic.
 - **x86_64**
 
 ## Facebook App Version 
-- **545.0.0.43.63**
+- **546.0.0.42.66**
 
 
 ## 📱 Mobile Device Requirements
