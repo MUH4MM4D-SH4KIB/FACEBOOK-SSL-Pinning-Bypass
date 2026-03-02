@@ -18,9 +18,10 @@ This project provides a **patched `libcoldstart.so`** library for the Facebook A
 
 ## 🎥 Proof of Concept
 
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/c9e46e29-ae92-4986-874b-645c19d4c9c4" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/698cb8c5-3b0e-43d6-8a8c-555ed66640ad" />
+https://github.com/user-attachments/assets/f445a346-3a36-4ad6-b860-1e3930144a39
 
-▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/7cd75a8e-3366-4bd5-922b-40e3f22c41f1)
+▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/f445a346-3a36-4ad6-b860-1e3930144a39)
 
 ---
 
@@ -28,7 +29,7 @@ This project provides a **patched `libcoldstart.so`** library for the Facebook A
 
 | App | Version | Patched Library | Status |
 |-----|---------|-----------------|--------|
-| Facebook | **548.1.0.51.64** | `libcoldstart.so` | ✅ Bypassed |
+| Facebook | **549.0.0.61.62** | `libcoldstart.so` | ✅ Bypassed |
 
 > For the **latest patched `libcoldstart.so`**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
